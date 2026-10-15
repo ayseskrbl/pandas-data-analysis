@@ -1,13 +1,12 @@
 # Pandas Data Analysis Portfolio
-Pandas analyses of real-world datasets: category comparisons, correlations, outliers, and confounding checks.
-Each folder covers a separate dataset, with its own README and notebook.
+
+Pandas analyses of real-world datasets with Seaborn visualizations: category comparisons, correlations, outliers, and confounding checks. Each folder covers a separate dataset, with its own README and notebook. Datasets are cleaned beforehand in [pandas-data-cleaning](https://github.com/ayseskrbl/pandas-data-cleaning).
 
 ## Projects
-[Cafe Sales Data Analysis](https://github.com/aysesudekrbl/data-analysis-projects/blob/main/cafe-sales)
-Analysis on the cleaned Cafe Sales dataset: what drives total revenue by item, payment method, location and month, plus a data cleaning bug found and fixed along the way.
 
-[NYC Airbnb Data Analysis](https://github.com/aysesudekrbl/data-analysis-projects/blob/main/nyc-airbnb)
-Analysis on the cleaned NYC Airbnb Open Data (2019): what drives listing price across neighbourhood group and room type, and whether these factors hold independently.
+- [Cafe Sales Data Analysis](./cafe-sales): what drives total revenue by item, payment method, location and month, plus a data cleaning bug found and fixed along the way.
+- [NYC Airbnb Data Analysis](./nyc-airbnb): what drives listing price in NYC (2019 Open Data). Neighbourhood group and room type each affect price independently; reviews and availability barely matter.
 
-## Tools Used
-Python, pandas, Jupyter Notebook
+## Tools
+
+Python, pandas, seaborn, Jupyter Notebook
