@@ -1,4 +1,4 @@
-# Data Analysis Practice
+# Pandas Data Analysis Portfolio
 Data analysis exercises on cleaned real-world datasets: comparing categories, checking correlations, catching outliers, and separating overlapping factors with pandas.
 Each folder covers a separate dataset, with its own README and notebook.
 
